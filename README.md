@@ -21,7 +21,7 @@
   
 # Contributing
 
-  For Contributers. Before please section "**Convetions**"   
+  For Contributers. Before please read section "**Convetions**"   
 
   * Suggestions/improvements [welcome](https://github.com/vnikifirov/managing-projects/issues)!
 
