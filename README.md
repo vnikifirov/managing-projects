@@ -18,6 +18,8 @@
 # References
 
   * [Video lecture - GitHub Porject Managment](https://resources.github.com/webcasts/GitHub-managing-your-projects-thankyou/)
+
+  * [Helpfull project managment references](https://github.com/marketplace/category/project-management)
   
 # Contributing
 
