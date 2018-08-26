@@ -7,13 +7,15 @@
 - How to get our attention?
 - How to help!
 
+# References
+
+  * [GitHub Markdown Cheatsheet/Guide](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+  * [Video lecture - GitHub Porject Managment](https://resources.github.com/webcasts/GitHub-managing-your-projects-thankyou/)
+  
 # Contributing
 
   * Suggestions/improvements [welcome](https://github.com/vnikifirov/managing-projects/issues)!
-
-# References
-
-  * [Video lecture - GitHub Porject Managment](https://resources.github.com/webcasts/GitHub-managing-your-projects-thankyou/)
 
 # Credits
 
