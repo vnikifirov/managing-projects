@@ -7,13 +7,21 @@
 - How to get our attention?
 - How to help!
 
-# References
+# Convetions
 
-  * [GitHub Markdown Cheatsheet/Guide](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [Branching convention](https://gist.github.com/vnikifirov/1efff6c02294cf621b8b6a44e18019c1)
+
+* [When you writting commit message, follow these](https://chris.beams.io/posts/git-commit/)
+
+* [GitHub Markdown Cheatsheet/Guide](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+# References
 
   * [Video lecture - GitHub Porject Managment](https://resources.github.com/webcasts/GitHub-managing-your-projects-thankyou/)
   
 # Contributing
+
+  For Contributers. Before please section "**Convetions**"   
 
   * Suggestions/improvements [welcome](https://github.com/vnikifirov/managing-projects/issues)!
 
