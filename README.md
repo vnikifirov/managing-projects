@@ -11,6 +11,10 @@
 
   * Suggestions/improvements [welcome](https://github.com/vnikifirov/managing-projects/issues)!
 
+# References
+
+  * [Video lecture - GitHub Porject Managment](https://resources.github.com/webcasts/GitHub-managing-your-projects-thankyou/)
+
 # Credits
 
   * If you want to reach out to me, feel free. Here's my Twitter: @nikifovadim and email: nikifovadim@gmail.com
